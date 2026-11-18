@@ -1,5 +1,5 @@
 ID,Status,Candidate hazard scenario,Potential consequence,Possible control to evaluate,Evidence status
-H-001,Illustrative,Aircraft enters a protected runway area without required clearance,Conflict with landing or departing traffic,Readback/hearback and runway status procedures,Not yet assessed against source data
+H-001,Illustrative,Aircraft occupies the runway protected area without required clearance or effective ATC coordination,Potential conflict or collision with landing or departing aircraft,Runway-entry clearance verification and readback/hearback procedures,Not yet assessed against source data
 H-002,Illustrative,Flight crew loses surface-position awareness during taxi,Unintended crossing or runway entry,Airport signage markings charts and crew cross-checks,Not yet assessed against source data
 H-003,Illustrative,Airport vehicle enters a protected runway area without authorization,Aircraft-vehicle conflict,Vehicle access control radio procedures and driver training,Not yet assessed against source data
 H-004,Illustrative,Controller and pilot hold inconsistent understandings of runway clearance status,Potential conflicting movement or incursion,Clearance phraseology and communication confirmation,Not yet assessed against source data
